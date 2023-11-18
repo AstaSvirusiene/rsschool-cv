@@ -1,5 +1,7 @@
-> [!NOTE]
-> This CV is for task purpose only and the data provided is not necessary real 🤷🏻‍♀️
+> [!NOTE]  
+> This CV is for task purpose only and the data provided is not necessary real 🤷🏻‍♀️  
+> [!TIP]   
+> Alerts (as this note) render only in GitHub and not on gh-pages. It is mostly used for projects documentation, compare [GitHub](https://github.com/AstaSvirusiene/rsschool-cv/blob/gh-pages/cv.md). [More info](https://blog.jakelee.co.uk/github-alert-experiments/) and [issue fix](https://github.com/orgs/community/discussions/16925)
 
 
  ![profile image](./avatar-3814049_640.png) 

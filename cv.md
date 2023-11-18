@@ -1,8 +1,8 @@
 > [!NOTE]
-> This CV is for task purpose only and the data provided not necessary is real :woman_shrugging:
+> This CV is for task purpose only and the data provided is not necessary real 🤷🏻‍♀️
 
 
- ![profile image](/rsschool-cv/avatar-3814049_640.png) 
+ ![profile image](./avatar-3814049_640.png) 
 # Asta Svirusiene
 ---      
 
@@ -13,7 +13,7 @@
 
 ## About me
 
-I am in this course to learn from the begining JavaScript and have all necessary knowledge for my current job. 
+I am in this course to learn from the beginning JavaScript and have all necessary knowledge for my current job. 
 
 ## Skills
 
@@ -31,10 +31,10 @@ There is markdown for ```code```...
 
 ## Education
 
-There is a todo list :smile: 
-- [ ] finish course from A to Z;
-- [ ] decide if to continue studies;
-- [ ] continue practice React at work.
+There is a todo list 😊  
+[ ] finish course from A to Z;  
+[ ] decide if to continue studies;  
+[ ] continue practice React at work...
 
 ## English 
 

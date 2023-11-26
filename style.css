@@ -1,0 +1,46 @@
+.header {
+    background-color: pink;
+    height: 150px;
+}
+h1 {
+    text-align: center;
+}
+.photo {
+    display: block;
+    width: 20%;
+    float: left;
+    margin-left: 100px;
+    margin-top: -150px;
+}
+.photo-text {
+    width: 1090px;
+    margin-left: 30px;
+}
+.name {
+    text-align: left;
+    padding-left: 400px
+}
+main { 
+    text-align: center;
+}
+.red {
+    display: block;
+    margin: 0px 100px 0px 100px
+}
+.table {
+    margin: 50px 150px 50px 150px;
+    text-align: left;
+}
+h4 {
+    text-align: left;
+}
+th, td {
+    padding: 65px;
+  }
+/* summary
+skiils
+experience
+education
+languages */
+
+contact info

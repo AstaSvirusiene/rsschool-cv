@@ -1,1 +1,1 @@
-[Github pages](https://astasvirusiene.github.io/rsschool-cv/cv)
+[Github pages](https://astasvirusiene.github.io/rsschool-cv/)

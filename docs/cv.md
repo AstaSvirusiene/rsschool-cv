@@ -1,6 +1,6 @@
 
 # Asta Svirusiene
-![profile image](./photo.png) 
+![profile image](../photo.png) 
 
 ## Contact Information
  - phone +370-600-00000

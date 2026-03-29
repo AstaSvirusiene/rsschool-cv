@@ -1,6 +1,6 @@
 
 # Asta Svirusiene
-![profile image](../photo.png) 
+![profile image](./photo.png) 
 
 ## Contact Information
  - phone +370-600-00000
@@ -25,7 +25,7 @@ function multiply(a, b){
   return 0;
 }
 ```
-Project sample
+[Project sample](https://astasvirusiene.github.io/rsschool-cv/cv)
 
 ## Work Experience
 Some info provided in here for CV task to fill the paragraph space
